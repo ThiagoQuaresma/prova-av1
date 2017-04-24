@@ -1,0 +1,6 @@
+/home/aluno/prova-av1/prova1-noite/pasta2/2.txt
+/home/aluno/prova-av1/prova1-noite/pasta3/pasta31/3.txt
+/home/aluno/prova-av1/prova1-noite/pasta1/1.txt
+/home/aluno/prova-av1/prova1-noite/thiago3.txt
+/home/aluno/prova-av1/prova1-noite/thiago1.txt
+/home/aluno/prova-av1/prova1-noite/thiago2.txt
